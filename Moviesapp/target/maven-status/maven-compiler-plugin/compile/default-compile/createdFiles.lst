@@ -1,0 +1,9 @@
+com\config\AppContext.class
+com\service\MovieService.class
+com\dao\MovieDAO.class
+com\config\AppInitializer.class
+com\entity\Movie.class
+com\controller\control.class
+com\dao\MovieDAOImpl.class
+com\config\WebMvcConfig.class
+com\service\MovieServiceImpl.class
